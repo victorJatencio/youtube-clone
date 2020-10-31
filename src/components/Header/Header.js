@@ -11,7 +11,7 @@ import "./Header.css";
 function Header() {
   return (
     <div className="header">
-      <div class="header__left">
+      <div className="header__left">
         <MenuIcon/>
         <img 
         className="header__logo"
